@@ -1,4 +1,5 @@
 datasets==2.5.0
 requests
 Pillow
+tqdm
 huggingface_hub
