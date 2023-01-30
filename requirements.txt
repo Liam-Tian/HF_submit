@@ -1,0 +1,4 @@
+datasets==2.5.0
+requests
+Pillow
+huggingface_hub
