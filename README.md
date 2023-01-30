@@ -1,2 +1,2 @@
-# HF_submit
-example usage if you want to upload your custom dataset to huggingface repository
+# Example usage for uploading dataset to Huggingface
+This script is used to upload your custom dataset to your Huggingface repo as a .parquet file. It's useful if you want to perform online training.
